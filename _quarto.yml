@@ -1,0 +1,29 @@
+project:
+  type: book
+
+book:
+  title: "statmemes"
+  author:
+    - qntkhvn
+    - statsinthewild, Ph. Dizzle
+  date: today
+  chapters:
+    - index.qmd
+    - assignment.qmd
+    - bonferroni.qmd
+    - rsq.qmd
+    - gam.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    number-sections: false
+    toc: false
+    theme:
+      light: flatly
+      dark: darkly
+
+execute:
+  freeze: auto

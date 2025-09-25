@@ -1,0 +1,10 @@
+# Preface
+
+Sonny and Cher; Batman and Robin; Romero and Juliet: All-time classic duos.
+There's also another iconic duo: statistics and memes.
+
+![](memes/doing-stat.jpg)
+
+## Who's in charge?
+
+![](memes/authors.gif)

@@ -1,0 +1,7 @@
+# Generalized additive models
+
+A GAM [@hastie1986generalized] replaces the linear predictor in a GLM by additive smooth functions of the explanatory variables.
+
+$$g(\mathbb E[Y \mid X = x]) = \beta_0 + s_1(x_1) + s_2(x_2) + \dots + s_p(x_p)$$
+
+![](memes/gam.jpg)

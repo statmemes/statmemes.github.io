@@ -1,0 +1,6 @@
+# Coefficient of determination
+
+Variance explained. $R^2$.
+
+![](memes/perfect-rsq.jpg)
+

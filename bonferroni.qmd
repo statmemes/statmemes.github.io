@@ -1,0 +1,6 @@
+# Bonferroni correction
+
+A conservative multiple comparisons method.
+
+![](memes/bonferroni.jpg)
+

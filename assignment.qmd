@@ -1,0 +1,5 @@
+# Assignment operator
+
+In `R`, `<-` is used as the assignment operator.
+
+![](memes/assignment-operator.jpg)

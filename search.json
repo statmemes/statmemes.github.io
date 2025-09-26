@@ -40,23 +40,23 @@
     ]
   },
   {
-    "objectID": "cook.html",
-    "href": "cook.html",
-    "title": "Cook’s distance",
-    "section": "",
-    "text": "(statsinthewild?) #statistics #rstats ♬ original sound - Gregory Matthews",
-    "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'><b>Cook's distance</b></span>"
-    ]
-  },
-  {
     "objectID": "rsq.html",
     "href": "rsq.html",
     "title": "Coefficient of determination",
     "section": "",
     "text": "Variance explained. \\(R^2\\).",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'><b>Coefficient of determination</b></span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'><b>Coefficient of determination</b></span>"
+    ]
+  },
+  {
+    "objectID": "cook.html",
+    "href": "cook.html",
+    "title": "Cook’s distance",
+    "section": "",
+    "text": "(statsinthewild?) #statistics #rstats ♬ original sound - Gregory Matthews",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'><b>Cook's distance</b></span>"
     ]
   },
   {

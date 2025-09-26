@@ -1,4 +1,4 @@
-# Bonferroni correction
+# <b>Bonferroni correction</b>
 
 A conservative multiple comparisons method.
 

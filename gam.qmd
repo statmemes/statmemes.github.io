@@ -1,4 +1,4 @@
-# Generalized additive models
+# <b>Generalized additive models</b>
 
 A GAM [@hastie1986generalized] replaces the linear predictor in a GLM by additive smooth functions of the explanatory variables.
 

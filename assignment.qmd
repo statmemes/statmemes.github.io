@@ -1,4 +1,4 @@
-# Assignment operator
+# <b>Assignment operator</b>
 
 In `R`, `<-` is used as the assignment operator.
 

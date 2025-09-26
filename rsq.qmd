@@ -1,4 +1,4 @@
-# Coefficient of determination
+# <b>Coefficient of determination</b>
 
 Variance explained. $R^2$.
 

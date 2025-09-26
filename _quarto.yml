@@ -11,6 +11,7 @@ book:
     - index.qmd
     - assignment.qmd
     - bonferroni.qmd
+    - cook.qmd
     - rsq.qmd
     - gam.qmd
     - references.qmd

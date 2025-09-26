@@ -26,7 +26,7 @@
     "section": "",
     "text": "In R, &lt;- is used as the assignment operator.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Assignment operator</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'><b>Assignment operator</b></span>"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "section": "",
     "text": "A conservative multiple comparisons method.",
     "crumbs": [
-      "<span class='chapter-number'>3</span>  <span class='chapter-title'>Bonferroni correction</span>"
+      "<span class='chapter-number'>3</span>  <span class='chapter-title'><b>Bonferroni correction</b></span>"
     ]
   },
   {
@@ -46,7 +46,7 @@
     "section": "",
     "text": "(statsinthewild?) #statistics #rstats ♬ original sound - Gregory Matthews",
     "crumbs": [
-      "<span class='chapter-number'>4</span>  <span class='chapter-title'>Cook's distance</span>"
+      "<span class='chapter-number'>4</span>  <span class='chapter-title'><b>Cook's distance</b></span>"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "section": "",
     "text": "Variance explained. \\(R^2\\).",
     "crumbs": [
-      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Coefficient of determination</span>"
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'><b>Coefficient of determination</b></span>"
     ]
   },
   {
@@ -66,7 +66,7 @@
     "section": "",
     "text": "A GAM (Hastie and Tibshirani 1986) replaces the linear predictor in a GLM by additive smooth functions of the explanatory variables.\n\\[g(\\mathbb E[Y \\mid X = x]) = \\beta_0 + s_1(x_1) + s_2(x_2) + \\dots + s_p(x_p)\\]\n\n\n\n\n\nHastie, Trevor, and Robert Tibshirani. 1986. “Generalized Additive Models.” Statistical Science 1 (3). https://doi.org/10.1214/ss/1177013604.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Generalized additive models</span>"
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'><b>Generalized additive models</b></span>"
     ]
   },
   {

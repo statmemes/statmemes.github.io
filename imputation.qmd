@@ -1,0 +1,6 @@
+# <b>Imputation</b>
+
+The process of filling in missing data.
+
+![](memes/imputation.jpg)
+

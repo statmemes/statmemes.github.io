@@ -14,6 +14,7 @@ book:
     - rsq.qmd
     - cook.qmd
     - gam.qmd
+    - imputation.qmd
     - references.qmd
 
 bibliography: references.bib

@@ -70,6 +70,16 @@
     ]
   },
   {
+    "objectID": "imputation.html",
+    "href": "imputation.html",
+    "title": "Imputation",
+    "section": "",
+    "text": "The process of filling in missing data.",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><b>Imputation</b></span>"
+    ]
+  },
+  {
     "objectID": "references.html",
     "href": "references.html",
     "title": "References",

@@ -13,6 +13,7 @@ book:
     - bonferroni.qmd
     - rsq.qmd
     - cook.qmd
+    - factors.qmd
     - gam.qmd
     - gradient.qmd
     - imputation.qmd

@@ -1,0 +1,5 @@
+# <b>Factors</b>
+
+In `R`, categorical data are represented with factors.
+
+![](memes/factors.jpg)

@@ -60,13 +60,23 @@
     ]
   },
   {
+    "objectID": "factors.html",
+    "href": "factors.html",
+    "title": "Factors",
+    "section": "",
+    "text": "In R, categorical data are represented with factors.",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'><b>Factors</b></span>"
+    ]
+  },
+  {
     "objectID": "gam.html",
     "href": "gam.html",
     "title": "Generalized additive models",
     "section": "",
     "text": "A GAM (Hastie and Tibshirani 1986) replaces the linear predictor in a GLM by additive smooth functions of the explanatory variables.\n\\[g(\\mathbb E[Y \\mid X = x]) = \\beta_0 + s_1(x_1) + s_2(x_2) + \\dots + s_p(x_p)\\]\n\n\n\n\n\nHastie, Trevor, and Robert Tibshirani. 1986. “Generalized Additive Models.” Statistical Science 1 (3). https://doi.org/10.1214/ss/1177013604.",
     "crumbs": [
-      "<span class='chapter-number'>6</span>  <span class='chapter-title'><b>Generalized additive models</b></span>"
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><b>Generalized additive models</b></span>"
     ]
   },
   {
@@ -76,7 +86,7 @@
     "section": "",
     "text": "Let \\(\\theta\\) denote the vector of all parameters and \\(\\ell(\\theta, D)\\) denote the loss function for \\(n\\) data points \\(D_i\\).\nMain idea: Start with an initial guess for \\(\\theta\\), then iterate until the loss function fails to decrease\nTuning parameter: learning rate \\(\\eta\\)\nIntuition: move a small step downhill based on the gradient at current position\n\n\\[\\theta_t \\leftarrow \\theta_{t-1} - \\eta \\nabla_\\theta \\ell(\\theta, D) \\vert _{\\theta = \\theta_{t-1}}\\]",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><b>Gradient descent</b></span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'><b>Gradient descent</b></span>"
     ]
   },
   {
@@ -86,7 +96,7 @@
     "section": "",
     "text": "The process of filling in missing data.",
     "crumbs": [
-      "<span class='chapter-number'>8</span>  <span class='chapter-title'><b>Imputation</b></span>"
+      "<span class='chapter-number'>9</span>  <span class='chapter-title'><b>Imputation</b></span>"
     ]
   },
   {

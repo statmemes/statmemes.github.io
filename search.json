@@ -70,13 +70,23 @@
     ]
   },
   {
+    "objectID": "gradient.html",
+    "href": "gradient.html",
+    "title": "Gradient descent",
+    "section": "",
+    "text": "Let \\(\\theta\\) denote the vector of all parameters and \\(\\ell(\\theta, D)\\) denote the loss function for \\(n\\) data points \\(D_i\\).\nMain idea: Start with an initial guess for \\(\\theta\\), then iterate until the loss function fails to decrease\nTuning parameter: learning rate \\(\\eta\\)\nIntuition: move a small step downhill based on the gradient at current position\n\n\\[\\theta_t \\leftarrow \\theta_{t-1} - \\eta \\nabla_\\theta \\ell(\\theta, D) \\vert _{\\theta = \\theta_{t-1}}\\]",
+    "crumbs": [
+      "<span class='chapter-number'>7</span>  <span class='chapter-title'><b>Gradient descent</b></span>"
+    ]
+  },
+  {
     "objectID": "imputation.html",
     "href": "imputation.html",
     "title": "Imputation",
     "section": "",
     "text": "The process of filling in missing data.",
     "crumbs": [
-      "<span class='chapter-number'>7</span>  <span class='chapter-title'><b>Imputation</b></span>"
+      "<span class='chapter-number'>8</span>  <span class='chapter-title'><b>Imputation</b></span>"
     ]
   },
   {

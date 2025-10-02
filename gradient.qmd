@@ -1,0 +1,13 @@
+# <b>Gradient descent</b>
+
+* Let $\theta$ denote the vector of all parameters and $\ell(\theta, D)$ denote the loss function for $n$ data points $D_i$.
+
+* Main idea: Start with an initial guess for $\theta$, then iterate until the loss function fails to decrease
+
+* Tuning parameter: learning rate $\eta$
+
+* Intuition: move a small step downhill based on the gradient at current position 
+
+$$\theta_t \leftarrow \theta_{t-1} - \eta \nabla_\theta \ell(\theta, D) \vert _{\theta = \theta_{t-1}}$$
+
+![](memes/gradient-descent.jpg)
